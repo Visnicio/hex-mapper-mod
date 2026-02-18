@@ -1,3 +1,7 @@
+Dependencies:
+	- Before continuing on creating a custom tileset, please, make sure you have a copy of Godot 4.6 installed in your machine to edit a mod
+	- Can be donwloaded here: https://godotengine.org/
+
 # Hex Mapper Modding Guide
 
 Welcome to the modding repository for **An Actual Useful Hex Mapper**. This guide will help you install existing mods or create and export your own custom tilesets.
