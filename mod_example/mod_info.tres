@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="ModInfoResource" format=3 uid="uid://bpebpnu0d5i7s"]
+
+[ext_resource type="Resource" uid="uid://caaujba5i11u8" path="res://mod_example/mod_example_configuration.tres" id="1_1xfkr"]
+[ext_resource type="Script" uid="uid://bg7fkkrplogdk" path="res://resources/definitions/modding/mod_info_resource.gd" id="1_efsut"]
+
+[resource]
+script = ExtResource("1_efsut")
+mod_id = &"visnicio_example_mod"
+author = "Visnicio"
+mod_name = "Example Mod"
+mod_configuration = ExtResource("1_1xfkr")
+metadata/_custom_type_script = "uid://bg7fkkrplogdk"

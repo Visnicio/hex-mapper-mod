@@ -1,0 +1,41 @@
+[gd_resource type="TileSet" format=3 uid="uid://bi3707enkq5sj"]
+
+[ext_resource type="Texture2D" uid="uid://ct6lvqajp5ov2" path="res://mod_example/gfx/Hex Tiles Fantasy/greenlands_packed.png" id="1_uig5k"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_x4ub8"]
+texture = ExtResource("1_uig5k")
+texture_region_size = Vector2i(238, 207)
+0:2/0 = 0
+0:0/0 = 0
+1:0/0 = 0
+2:0/0 = 0
+3:0/0 = 0
+3:1/0 = 0
+2:1/0 = 0
+1:1/0 = 0
+0:1/0 = 0
+1:2/0 = 0
+2:2/0 = 0
+3:2/0 = 0
+3:3/0 = 0
+2:3/0 = 0
+1:3/0 = 0
+0:3/0 = 0
+0:4/0 = 0
+1:4/0 = 0
+2:4/0 = 0
+3:4/0 = 0
+2:5/0 = 0
+1:5/0 = 0
+0:5/0 = 0
+3:5/0 = 0
+2:6/0 = 0
+1:6/0 = 0
+0:6/0 = 0
+
+[resource]
+tile_shape = 3
+tile_layout = 4
+tile_offset_axis = 1
+tile_size = Vector2i(238, 207)
+sources/27 = SubResource("TileSetAtlasSource_x4ub8")
